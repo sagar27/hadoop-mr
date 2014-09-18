@@ -1,0 +1,6 @@
+# Command to run MR job:
+dumbo start q1.py -input employees -output q1
+
+dumbo start q2.py -input employees -output q2
+
+dumbo start q3.py -input employees -output q3

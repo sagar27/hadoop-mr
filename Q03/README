@@ -1,0 +1,2 @@
+# Command to run MR job:
+dumbo start youthAtRisk.py -input friendlist -output youth_at_risk

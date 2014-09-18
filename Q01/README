@@ -1,0 +1,2 @@
+# Command to run MR job:
+dumbo start userSessionStats.py -input userlog -output user_session_stats

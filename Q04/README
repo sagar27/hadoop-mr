@@ -1,0 +1,2 @@
+# Command to run MR job:
+dumbo start commonFriends.py -input friendlist -output common_friends

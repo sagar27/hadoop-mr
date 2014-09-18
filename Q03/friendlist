@@ -1,0 +1,8 @@
+A->B,yes
+A->C,no
+B->A,no
+B->C,no
+C->A,no
+C->B,yes
+C->D,no
+D->B,yes
